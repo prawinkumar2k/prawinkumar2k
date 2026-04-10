@@ -6,40 +6,47 @@
 
 ### 🚀 Full Stack Developer | DevOps Engineer | AI Systems Builder
 
-I build scalable, real-world software systems across domains like FinTech, ERP, Healthcare, AI, and Data Analytics. My work focuses on combining full-stack development with DevOps and intelligent systems.
+I design and build **scalable, production-ready software systems** across domains like **FinTech, ERP, Healthcare, AI, and Data Analytics**.
+
+💡 Passionate about combining **Full Stack Development + DevOps + AI** to create real-world impact.
 
 <br clear="right"/>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
+
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=prawinkumar2k&show_icons=true&theme=tokyonight" alt="prawinkumar2k GitHub stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prawinkumar2k&layout=compact&theme=tokyonight" alt="Top Langs" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=prawinkumar2k&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prawinkumar2k&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 Tech Stack & Expertise
 
-### Frontend
+### 💻 Frontend
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-### Backend
+### ⚙️ Backend & APIs
+
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-### Database
+### 🗄️ Databases
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-### DevOps & Tools
+### 🚀 DevOps & Cloud
+
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -47,47 +54,87 @@ I build scalable, real-world software systems across domains like FinTech, ERP, 
 
 ---
 
-## 💡 What I Do
+## 💡 Core Expertise
 
-* 🏗️ **Develop full-stack applications** (Frontend + Backend)
-* 🐳 **Containerize applications** using Docker
-* ☸️ **Deploy and scale systems** using Kubernetes
-* 🤖 **Build AI/ML-based solutions**
-* 🔐 **Design secure systems** (authentication, payment gateways)
+✔️ Architecting **full-stack scalable systems**
+✔️ Building **REST APIs & microservices**
+✔️ Containerization using **Docker**
+✔️ Deployment & orchestration using **Kubernetes**
+✔️ Integrating **AI/ML models into applications**
+✔️ Designing **secure authentication & payment systems**
 
 ---
 
 ## 🔥 Featured Projects
 
 ### 💳 IrisPay – Biometric Payment Gateway
-*A secure biometric-based payment system designed to replace traditional authentication methods with enhanced security mechanisms.*
+
+🔹 Secure biometric authentication system
+🔹 Designed to replace traditional PIN/password systems
+🔹 Focused on **FinTech security & real-time processing**
+
+---
 
 ### 🏫 Campus ERP System
-*A full-scale ERP platform with modules for students, faculty, attendance, and academic management.*
+
+🔹 Multi-module system (Student, Faculty, Admin)
+🔹 Attendance, academic tracking & management
+🔹 Built with scalable backend architecture
+
+---
 
 ### 🏥 Hospital Management System
-*A complete healthcare system with backend services, dashboards, and patient management modules.*
+
+🔹 End-to-end healthcare solution
+🔹 Patient records, dashboards & admin control
+🔹 Backend-heavy architecture with secure data handling
+
+---
 
 ### 🤖 AI Forecasting System
-*A machine learning-based system for predictive analytics and decision-making.*
 
-### 💬 Real-Time Chat System
-*A communication platform with scalable architecture and real-time messaging.*
+🔹 Machine Learning-based predictive analytics
+🔹 Data-driven decision-making system
+🔹 Real-world dataset integration
+
+---
+
+### 💬 Real-Time Chat Application
+
+🔹 Scalable messaging system
+🔹 Real-time communication using modern architecture
+🔹 Efficient backend event handling
+
+---
 
 ### 🌐 Event Management Platform
-*A full-stack application for managing and organizing events efficiently.*
+
+🔹 Full-stack event lifecycle management
+🔹 Admin dashboard + user interface
+🔹 Optimized database design
 
 ---
 
-## 📈 What Makes Me Different
+## 🏆 Achievements & Certifications
 
-✔️ I build **complete systems**, not just small apps
-✔️ I focus on **real-world problem solving**
-✔️ I integrate **AI + DevOps + Full Stack**
+🏅 MongoDB Certified Associate Developer
+🏅 AI for India 2.0 – Skill India
+🏅 Python Programming – GUVI
+🏅 IoT Workshop – NoviTech
+🏅 UI/UX Internship – SHENai
+🏅 Data Analytics Internship – SearchFirst Technologies
 
 ---
 
-## 📫 Contact Me
+## 📈 Why Choose Me?
+
+✔️ I build **industry-level systems**, not just demos
+✔️ I combine **Development + DevOps + AI**
+✔️ I focus on **real-world scalability & performance**
+
+---
+
+## 📫 Connect With Me
 
 <p align="left">
 <a href="mailto:prawinkumar2k4@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -97,4 +144,12 @@ I build scalable, real-world software systems across domains like FinTech, ERP, 
 
 ---
 
-⭐ **Always learning. Always building.**
+## ⚡ Current Focus
+
+🚀 Building production-ready systems
+☸️ Scaling apps using Kubernetes
+🤖 Integrating AI into real-world applications
+
+---
+
+⭐ **"I don't just write code — I build systems that solve real problems."**
