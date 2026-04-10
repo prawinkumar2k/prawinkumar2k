@@ -4,26 +4,22 @@
 
 <br/>
 
-<table align="center">
-  <tr>
-    <td width="65%" valign="top">
-      <h3>Full Stack Developer • DevOps Orchestrator • AI Systems Builder</h3>
-      <strong>Specializing in the intersection of Scalable Web Architecture and Intelligent Automation.</strong>
-      <p>I don't just build apps; I architect <strong>production-grade systems</strong> that solve real-world problems. My approach merges <strong>Full-Stack development</strong> with <strong>DevOps rigor</strong> and <strong>AI-driven intelligence</strong> to ensure software is scalable, secure, and future-proof.</p>
-    </td>
-    <td width="35%" align="center" valign="top">
-      <img src="./profile.jpg" width="200" style="border-radius: 20px; box-shadow: 0px 4px 15px rgba(0,0,0,0.3);" />
-    </td>
-  </tr>
-</table>
+<img src="./profile.jpg" align="right" width="200" style="border-radius: 20px; box-shadow: 0px 4px 15px rgba(0,0,0,0.3); margin-left: 20px;" />
+
+### Full Stack Developer • DevOps Orchestrator • AI Systems Builder
+**Specializing in the intersection of Scalable Web Architecture and Intelligent Automation.**
+
+I don't just build apps; I architect **production-grade systems** that solve real-world problems. My approach merges **Full-Stack development** with **DevOps rigor** and **AI-driven intelligence** to ensure software is scalable, secure, and future-proof.
+
+<br clear="right"/>
 
 ---
 
 ## 📊 GitHub Analytics
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=prawinkumar2k&show_icons=true&theme=tokyonight" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prawinkumar2k&layout=compact&theme=tokyonight" height="150" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prawinkumar2k&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.app/?user=prawinkumar2k&theme=tokyonight" height="170" />
 </p>
 
 ---
