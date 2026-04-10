@@ -50,6 +50,7 @@ I design and build **scalable, production-ready software systems** across domain
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Hostinger](https://img.shields.io/badge/Hostinger-%23673AB7.svg?style=for-the-badge&logo=hostinger&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
@@ -62,6 +63,7 @@ I design and build **scalable, production-ready software systems** across domain
 ✔️ Deployment & orchestration using **Kubernetes**
 ✔️ Integrating **AI/ML models into applications**
 ✔️ Designing **secure authentication & payment systems**
+✔️ VPS Management & Project Deployment (**Hostinger**)
 
 ---
 
