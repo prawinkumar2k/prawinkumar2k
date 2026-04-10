@@ -15,11 +15,14 @@ I don't just build apps; I architect **production-grade systems** that solve rea
 
 ---
 
-## 📊 GitHub Analytics
+## 📈 Activity & Impact
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prawinkumar2k&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.app/?user=prawinkumar2k&theme=tokyonight" height="170" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prawinkumar2k&theme=tokyonight" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=prawinkumar2k&label=PROFILE+VIEWS&color=0e75b6&style=flat" />
 </p>
 
 ---
