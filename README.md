@@ -138,25 +138,26 @@
   </tr>
   <tr>
     <td width="33%" valign="top" align="center" style="border: 1px solid #24283b; padding: 15px; border-radius: 8px;">
-      <h3 style="color: #00ff00;">🗄️ Databases</h3>
+      <h3 style="color: #00ff00;">🗄️ Databases & Cloud</h3>
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /><br/>
+      <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
     </td>
     <td width="33%" valign="top" align="center" style="border: 1px solid #24283b; padding: 15px; border-radius: 8px;">
-      <h3 style="color: #e0af68;">🐳 DevOps & Cloud</h3>
+      <h3 style="color: #e0af68;">🐳 DevOps & CI/CD</h3>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /><br/>
-      <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /><br/>
       <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
     </td>
     <td width="34%" valign="top" align="center" style="border: 1px solid #24283b; padding: 15px; border-radius: 8px;">
       <h3 style="color: #f7768e;">🤖 IoT & Hardware</h3>
       <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Sensors-001000?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Sensors-001000?style=for-the-badge" /><br/>
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
     </td>
   </tr>
 </table>
