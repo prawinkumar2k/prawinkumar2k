@@ -1,0 +1,23 @@
+<svg width="1200" height="30" viewBox="0 0 1200 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Base dark grid track -->
+  <path d="M0 15 H1200" stroke="#24283b" stroke-width="1" stroke-dasharray="5 5" />
+  <!-- Glowing pulse line moving left-to-right and back -->
+  <path d="M0 15 H150" stroke="url(#pulse_grad)" stroke-width="2">
+    <animate attributeName="transform" type="translate" from="-200 0" to="1200 0" dur="4s" repeatCount="indefinite" />
+  </path>
+  <!-- Central holographic diamond -->
+  <rect x="585" y="5" width="30" height="20" rx="4" fill="#1a1b26" stroke="#7aa2f7" stroke-width="1.5">
+    <animate attributeName="stroke" values="#7aa2f7;#bb9af7;#00f2fe;#7aa2f7" dur="4s" repeatCount="indefinite" />
+  </rect>
+  <circle cx="600" cy="15" r="4" fill="#00f2fe">
+    <animate attributeName="r" values="3;5;3" dur="1.5s" repeatCount="indefinite" />
+    <animate attributeName="fill" values="#00f2fe;#ff007f;#00f2fe" dur="3s" repeatCount="indefinite" />
+  </circle>
+  <defs>
+    <linearGradient id="pulse_grad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7aa2f7" stop-opacity="0" />
+      <stop offset="50%" stop-color="#00f2fe" stop-opacity="1" />
+      <stop offset="100%" stop-color="#bb9af7" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+</svg>

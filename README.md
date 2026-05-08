@@ -35,103 +35,19 @@
 
 <!-- HOLOGRAPHIC DIVIDER 1 -->
 <p align="center">
-  <svg width="100%" height="30" viewBox="0 0 1200 30" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <path d="M0 15 H1200" stroke="#24283b" stroke-width="1" stroke-dasharray="5 5" />
-    <path d="M0 15 H150" stroke="url(#pulse_grad1)" stroke-width="2">
-      <animate attributeName="transform" type="translate" from="-200 0" to="1200 0" dur="4s" repeatCount="indefinite" />
-    </path>
-    <rect x="585" y="5" width="30" height="20" rx="4" fill="#1a1b26" stroke="#7aa2f7" stroke-width="1.5">
-      <animate attributeName="stroke" values="#7aa2f7;#bb9af7;#00f2fe;#7aa2f7" dur="4s" repeatCount="indefinite" />
-    </rect>
-    <circle cx="600" cy="15" r="4" fill="#00f2fe">
-      <animate attributeName="r" values="3;5;3" dur="1.5s" repeatCount="indefinite" />
-      <animate attributeName="fill" values="#00f2fe;#ff007f;#00f2fe" dur="3s" repeatCount="indefinite" />
-    </circle>
-    <defs>
-      <linearGradient id="pulse_grad1" x1="0" y1="0" x2="1" y2="0">
-        <stop offset="0%" stop-color="#7aa2f7" stop-opacity="0" />
-        <stop offset="50%" stop-color="#00f2fe" stop-opacity="1" />
-        <stop offset="100%" stop-color="#bb9af7" stop-opacity="0" />
-      </linearGradient>
-    </defs>
-  </svg>
+  <img src="./divider.svg" width="100%" />
 </p>
 
 <!-- ==================== SECTION 1 — CORE STATUS TELEMETRY ==================== -->
 ## 🧠 System Status & Neural Core
 
 <p align="center">
-  <svg width="100%" height="150" viewBox="0 0 800 150" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <!-- Card Frame -->
-    <rect x="10" y="10" width="780" height="130" rx="12" fill="#16161e" stroke="#24283b" stroke-width="1.5" />
-    <rect x="15" y="15" width="770" height="120" rx="10" fill="none" stroke="url(#core_border)" stroke-width="1" stroke-opacity="0.5" />
-    
-    <!-- Top telemetry header bar -->
-    <path d="M15 35 H785" stroke="#24283b" stroke-width="1" />
-    <circle cx="35" cy="25" r="5" fill="#ff0055">
-      <animate attributeName="opacity" values="1;0.3;1" dur="1s" repeatCount="indefinite" />
-    </circle>
-    <text x="50" y="29" fill="#7aa2f7" font-family="'Orbitron', monospace" font-size="11" font-weight="bold" letter-spacing="1.5">AI NEURAL CORE SYSTEM // STATUS: ONLINE</text>
-    
-    <!-- Pulse scanner graphic inside the card -->
-    <rect x="30" y="55" width="80" height="65" rx="6" fill="#1a1b26" stroke="#7aa2f7" stroke-width="1" />
-    <path d="M30 87 H110" stroke="#1f2335" stroke-width="1" />
-    <!-- Oscilloscope wave animation -->
-    <path d="M30 87 Q45 60 55 100 T80 75 T110 87" stroke="#00f2fe" stroke-width="1.5" fill="none">
-      <animate attributeName="d" 
-               values="M30 87 Q45 60 55 100 T80 75 T110 87;
-                       M30 87 Q45 100 55 60 T80 100 T110 87;
-                       M30 87 Q45 60 55 100 T80 75 T110 87" 
-               dur="2s" repeatCount="indefinite" />
-    </path>
-    
-    <!-- Core metrics text -->
-    <text x="130" y="70" fill="#a9b1d6" font-family="'Courier New', monospace" font-size="12">ENGINE MODEL: GPT-4O / CLAUDE-3.5-SONNET / GEMINI-3-FLASH</text>
-    <text x="130" y="90" fill="#a9b1d6" font-family="'Courier New', monospace" font-size="12">COGNITIVE PIPELINES: MULTI-AGENT SWARMS [ACTIVE]</text>
-    <text x="130" y="110" fill="#a9b1d6" font-family="'Courier New', monospace" font-size="12">LATENCY PROFILE: SUB-100MS HIGH-SPEED ROUTING</text>
-    
-    <!-- Cyberpunk grid overlay decoration -->
-    <line x1="700" y1="55" x2="700" y2="120" stroke="#24283b" stroke-width="1" stroke-dasharray="2 2" />
-    
-    <!-- Radial cyber status loader -->
-    <circle cx="740" cy="87" r="22" stroke="#24283b" stroke-width="3" fill="none" />
-    <circle cx="740" cy="87" r="22" stroke="#00f2fe" stroke-width="3" stroke-dasharray="138" stroke-dashoffset="35" fill="none">
-      <animateTransform attributeName="transform" type="rotate" from="0 740 87" to="360 740 87" dur="3s" repeatCount="indefinite" />
-    </circle>
-    <text x="740" y="91" fill="#00f2fe" font-family="'Orbitron', monospace" font-size="10" font-weight="bold" text-anchor="middle">98%</text>
-    
-    <defs>
-      <linearGradient id="core_border" x1="0" y1="0" x2="1" y2="1">
-        <stop offset="0%" stop-color="#7aa2f7" />
-        <stop offset="50%" stop-color="#00f2fe" />
-        <stop offset="100%" stop-color="#bb9af7" />
-      </linearGradient>
-    </defs>
-  </svg>
+  <img src="./core.svg" width="100%" />
 </p>
 
 <!-- HOLOGRAPHIC DIVIDER 2 -->
 <p align="center">
-  <svg width="100%" height="30" viewBox="0 0 1200 30" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <path d="M0 15 H1200" stroke="#24283b" stroke-width="1" stroke-dasharray="5 5" />
-    <path d="M0 15 H150" stroke="url(#pulse_grad2)" stroke-width="2">
-      <animate attributeName="transform" type="translate" from="-200 0" to="1200 0" dur="4s" repeatCount="indefinite" />
-    </path>
-    <rect x="585" y="5" width="30" height="20" rx="4" fill="#1a1b26" stroke="#bb9af7" stroke-width="1.5">
-      <animate attributeName="stroke" values="#bb9af7;#00f2fe;#7aa2f7;#bb9af7" dur="4s" repeatCount="indefinite" />
-    </rect>
-    <circle cx="600" cy="15" r="4" fill="#bb9af7">
-      <animate attributeName="r" values="3;5;3" dur="1.5s" repeatCount="indefinite" />
-      <animate attributeName="fill" values="#bb9af7;#00f2fe;#ff007f;#bb9af7" dur="3s" repeatCount="indefinite" />
-    </circle>
-    <defs>
-      <linearGradient id="pulse_grad2" x1="0" y1="0" x2="1" y2="0">
-        <stop offset="0%" stop-color="#bb9af7" stop-opacity="0" />
-        <stop offset="50%" stop-color="#00f2fe" stop-opacity="1" />
-        <stop offset="100%" stop-color="#7aa2f7" stop-opacity="0" />
-      </linearGradient>
-    </defs>
-  </svg>
+  <img src="./divider.svg" width="100%" />
 </p>
 
 <!-- ==================== SECTION 2 — ENTERPRISE METRICS ==================== -->
@@ -178,26 +94,7 @@
 
 <!-- HOLOGRAPHIC DIVIDER 3 -->
 <p align="center">
-  <svg width="100%" height="30" viewBox="0 0 1200 30" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <path d="M0 15 H1200" stroke="#24283b" stroke-width="1" stroke-dasharray="5 5" />
-    <path d="M0 15 H150" stroke="url(#pulse_grad3)" stroke-width="2">
-      <animate attributeName="transform" type="translate" from="-200 0" to="1200 0" dur="4s" repeatCount="indefinite" />
-    </path>
-    <rect x="585" y="5" width="30" height="20" rx="4" fill="#1a1b26" stroke="#00f2fe" stroke-width="1.5">
-      <animate attributeName="stroke" values="#00f2fe;#7aa2f7;#bb9af7;#00f2fe" dur="4s" repeatCount="indefinite" />
-    </rect>
-    <circle cx="600" cy="15" r="4" fill="#00f2fe">
-      <animate attributeName="r" values="3;5;3" dur="1.5s" repeatCount="indefinite" />
-      <animate attributeName="fill" values="#00f2fe;#bb9af7;#ff007f;#00f2fe" dur="3s" repeatCount="indefinite" />
-    </circle>
-    <defs>
-      <linearGradient id="pulse_grad3" x1="0" y1="0" x2="1" y2="0">
-        <stop offset="0%" stop-color="#00f2fe" stop-opacity="0" />
-        <stop offset="50%" stop-color="#bb9af7" stop-opacity="1" />
-        <stop offset="100%" stop-color="#7aa2f7" stop-opacity="0" />
-      </linearGradient>
-    </defs>
-  </svg>
+  <img src="./divider.svg" width="100%" />
 </p>
 
 <!-- ==================== SECTION 3 — PROFESSIONAL PROFILE ==================== -->
@@ -230,26 +127,7 @@
 
 <!-- HOLOGRAPHIC DIVIDER 4 -->
 <p align="center">
-  <svg width="100%" height="30" viewBox="0 0 1200 30" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <path d="M0 15 H1200" stroke="#24283b" stroke-width="1" stroke-dasharray="5 5" />
-    <path d="M0 15 H150" stroke="url(#pulse_grad4)" stroke-width="2">
-      <animate attributeName="transform" type="translate" from="-200 0" to="1200 0" dur="4s" repeatCount="indefinite" />
-    </path>
-    <rect x="585" y="5" width="30" height="20" rx="4" fill="#1a1b26" stroke="#7aa2f7" stroke-width="1.5">
-      <animate attributeName="stroke" values="#7aa2f7;#00f2fe;#bb9af7;#7aa2f7" dur="4s" repeatCount="indefinite" />
-    </rect>
-    <circle cx="600" cy="15" r="4" fill="#00f2fe">
-      <animate attributeName="r" values="3;5;3" dur="1.5s" repeatCount="indefinite" />
-      <animate attributeName="fill" values="#00f2fe;#ff007f;#bb9af7;#00f2fe" dur="3s" repeatCount="indefinite" />
-    </circle>
-    <defs>
-      <linearGradient id="pulse_grad4" x1="0" y1="0" x2="1" y2="0">
-        <stop offset="0%" stop-color="#7aa2f7" stop-opacity="0" />
-        <stop offset="50%" stop-color="#00f2fe" stop-opacity="1" />
-        <stop offset="100%" stop-color="#bb9af7" stop-opacity="0" />
-      </linearGradient>
-    </defs>
-  </svg>
+  <img src="./divider.svg" width="100%" />
 </p>
 
 <!-- ==================== SECTION 4 — DYNAMIC TECH ARSENAL ==================== -->
@@ -310,26 +188,7 @@
 
 <!-- HOLOGRAPHIC DIVIDER 5 -->
 <p align="center">
-  <svg width="100%" height="30" viewBox="0 0 1200 30" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <path d="M0 15 H1200" stroke="#24283b" stroke-width="1" stroke-dasharray="5 5" />
-    <path d="M0 15 H150" stroke="url(#pulse_grad5)" stroke-width="2">
-      <animate attributeName="transform" type="translate" from="-200 0" to="1200 0" dur="4s" repeatCount="indefinite" />
-    </path>
-    <rect x="585" y="5" width="30" height="20" rx="4" fill="#1a1b26" stroke="#00f2fe" stroke-width="1.5">
-      <animate attributeName="stroke" values="#00f2fe;#bb9af7;#7aa2f7;#00f2fe" dur="4s" repeatCount="indefinite" />
-    </rect>
-    <circle cx="600" cy="15" r="4" fill="#00f2fe">
-      <animate attributeName="r" values="3;5;3" dur="1.5s" repeatCount="indefinite" />
-      <animate attributeName="fill" values="#00f2fe;#ff007f;#bb9af7;#00f2fe" dur="3s" repeatCount="indefinite" />
-    </circle>
-    <defs>
-      <linearGradient id="pulse_grad5" x1="0" y1="0" x2="1" y2="0">
-        <stop offset="0%" stop-color="#00f2fe" stop-opacity="0" />
-        <stop offset="50%" stop-color="#bb9af7" stop-opacity="1" />
-        <stop offset="100%" stop-color="#7aa2f7" stop-opacity="0" />
-      </linearGradient>
-    </defs>
-  </svg>
+  <img src="./divider.svg" width="100%" />
 </p>
 
 <!-- ==================== SECTION 5 — FEATURED PROJECTS ==================== -->
@@ -422,26 +281,7 @@
 
 <!-- HOLOGRAPHIC DIVIDER 6 -->
 <p align="center">
-  <svg width="100%" height="30" viewBox="0 0 1200 30" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <path d="M0 15 H1200" stroke="#24283b" stroke-width="1" stroke-dasharray="5 5" />
-    <path d="M0 15 H150" stroke="url(#pulse_grad6)" stroke-width="2">
-      <animate attributeName="transform" type="translate" from="-200 0" to="1200 0" dur="4s" repeatCount="indefinite" />
-    </path>
-    <rect x="585" y="5" width="30" height="20" rx="4" fill="#1a1b26" stroke="#7aa2f7" stroke-width="1.5">
-      <animate attributeName="stroke" values="#7aa2f7;#bb9af7;#00f2fe;#7aa2f7" dur="4s" repeatCount="indefinite" />
-    </rect>
-    <circle cx="600" cy="15" r="4" fill="#00f2fe">
-      <animate attributeName="r" values="3;5;3" dur="1.5s" repeatCount="indefinite" />
-      <animate attributeName="fill" values="#00f2fe;#bb9af7;#ff007f;#00f2fe" dur="3s" repeatCount="indefinite" />
-    </circle>
-    <defs>
-      <linearGradient id="pulse_grad6" x1="0" y1="0" x2="1" y2="0">
-        <stop offset="0%" stop-color="#7aa2f7" stop-opacity="0" />
-        <stop offset="50%" stop-color="#bb9af7" stop-opacity="1" />
-        <stop offset="100%" stop-color="#00f2fe" stop-opacity="0" />
-      </linearGradient>
-    </defs>
-  </svg>
+  <img src="./divider.svg" width="100%" />
 </p>
 
 <!-- ==================== SECTION 6 — TELEMETRY & PERFORMANCE METRICS ==================== -->
@@ -459,26 +299,7 @@
 
 <!-- HOLOGRAPHIC DIVIDER 7 -->
 <p align="center">
-  <svg width="100%" height="30" viewBox="0 0 1200 30" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <path d="M0 15 H1200" stroke="#24283b" stroke-width="1" stroke-dasharray="5 5" />
-    <path d="M0 15 H150" stroke="url(#pulse_grad7)" stroke-width="2">
-      <animate attributeName="transform" type="translate" from="-200 0" to="1200 0" dur="4s" repeatCount="indefinite" />
-    </path>
-    <rect x="585" y="5" width="30" height="20" rx="4" fill="#1a1b26" stroke="#bb9af7" stroke-width="1.5">
-      <animate attributeName="stroke" values="#bb9af7;#00f2fe;#7aa2f7;#bb9af7" dur="4s" repeatCount="indefinite" />
-    </rect>
-    <circle cx="600" cy="15" r="4" fill="#bb9af7">
-      <animate attributeName="r" values="3;5;3" dur="1.5s" repeatCount="indefinite" />
-      <animate attributeName="fill" values="#bb9af7;#7aa2f7;#ff007f;#bb9af7" dur="3s" repeatCount="indefinite" />
-    </circle>
-    <defs>
-      <linearGradient id="pulse_grad7" x1="0" y1="0" x2="1" y2="0">
-        <stop offset="0%" stop-color="#bb9af7" stop-opacity="0" />
-        <stop offset="50%" stop-color="#7aa2f7" stop-opacity="1" />
-        <stop offset="100%" stop-color="#00f2fe" stop-opacity="0" />
-      </linearGradient>
-    </defs>
-  </svg>
+  <img src="./divider.svg" width="100%" />
 </p>
 
 <!-- ==================== SECTION 7 — DYNAMIC CONTRIBUTION SYSTEMS ==================== -->
@@ -496,26 +317,7 @@
 
 <!-- HOLOGRAPHIC DIVIDER 8 -->
 <p align="center">
-  <svg width="100%" height="30" viewBox="0 0 1200 30" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <path d="M0 15 H1200" stroke="#24283b" stroke-width="1" stroke-dasharray="5 5" />
-    <path d="M0 15 H150" stroke="url(#pulse_grad8)" stroke-width="2">
-      <animate attributeName="transform" type="translate" from="-200 0" to="1200 0" dur="4s" repeatCount="indefinite" />
-    </path>
-    <rect x="585" y="5" width="30" height="20" rx="4" fill="#1a1b26" stroke="#00f2fe" stroke-width="1.5">
-      <animate attributeName="stroke" values="#00f2fe;#7aa2f7;#bb9af7;#00f2fe" dur="4s" repeatCount="indefinite" />
-    </rect>
-    <circle cx="600" cy="15" r="4" fill="#00f2fe">
-      <animate attributeName="r" values="3;5;3" dur="1.5s" repeatCount="indefinite" />
-      <animate attributeName="fill" values="#00f2fe;#ff007f;#7aa2f7;#00f2fe" dur="3s" repeatCount="indefinite" />
-    </circle>
-    <defs>
-      <linearGradient id="pulse_grad8" x1="0" y1="0" x2="1" y2="0">
-        <stop offset="0%" stop-color="#00f2fe" stop-opacity="0" />
-        <stop offset="50%" stop-color="#7aa2f7" stop-opacity="1" />
-        <stop offset="100%" stop-color="#bb9af7" stop-opacity="0" />
-      </linearGradient>
-    </defs>
-  </svg>
+  <img src="./divider.svg" width="100%" />
 </p>
 
 <!-- ==================== SECTION 8 — CURRENT FOCUS ==================== -->
@@ -527,26 +329,7 @@
 
 <!-- HOLOGRAPHIC DIVIDER 9 -->
 <p align="center">
-  <svg width="100%" height="30" viewBox="0 0 1200 30" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <path d="M0 15 H1200" stroke="#24283b" stroke-width="1" stroke-dasharray="5 5" />
-    <path d="M0 15 H150" stroke="url(#pulse_grad9)" stroke-width="2">
-      <animate attributeName="transform" type="translate" from="-200 0" to="1200 0" dur="4s" repeatCount="indefinite" />
-    </path>
-    <rect x="585" y="5" width="30" height="20" rx="4" fill="#1a1b26" stroke="#7aa2f7" stroke-width="1.5">
-      <animate attributeName="stroke" values="#7aa2f7;#bb9af7;#00f2fe;#7aa2f7" dur="4s" repeatCount="indefinite" />
-    </rect>
-    <circle cx="600" cy="15" r="4" fill="#00f2fe">
-      <animate attributeName="r" values="3;5;3" dur="1.5s" repeatCount="indefinite" />
-      <animate attributeName="fill" values="#00f2fe;#ff007f;#bb9af7;#00f2fe" dur="3s" repeatCount="indefinite" />
-    </circle>
-    <defs>
-      <linearGradient id="pulse_grad9" x1="0" y1="0" x2="1" y2="0">
-        <stop offset="0%" stop-color="#7aa2f7" stop-opacity="0" />
-        <stop offset="50%" stop-color="#00f2fe" stop-opacity="1" />
-        <stop offset="100%" stop-color="#bb9af7" stop-opacity="0" />
-      </linearGradient>
-    </defs>
-  </svg>
+  <img src="./divider.svg" width="100%" />
 </p>
 
 <!-- ==================== SECTION 9 — FUTURE VISION ==================== -->
