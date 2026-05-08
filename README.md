@@ -324,6 +324,3 @@
   <i>"Let's build intelligent systems together."</i>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/type=slice&color=auto&height=100&section=footer" width="100%" />
-</p>
