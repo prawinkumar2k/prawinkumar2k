@@ -27,7 +27,7 @@
 
 <p align="center">
   <a href="#-featured-projects"><img src="https://img.shields.io/badge/VIEW_PORTFOLIO-7aa2f7?style=flat-square&logo=visualstudiocode&logoColor=white" /></a>
-  <a href="./profile.jpg"><img src="https://img.shields.io/badge/ACCESS_RESUME-bb9af7?style=flat-square&logo=adobeacrobatreader&logoColor=white" /></a>
+  <a href="./PrawinKumar_Resume.pdf"><img src="https://img.shields.io/badge/ACCESS_RESUME-bb9af7?style=flat-square&logo=adobeacrobatreader&logoColor=white" /></a>
   <a href="mailto:prawinkumar2k4@gmail.com"><img src="https://img.shields.io/badge/INITIATE_COLLAB-00f2fe?style=flat-square&logo=telegram&logoColor=white" /></a>
   <img src="https://img.shields.io/github/followers/prawinkumar2k?style=flat-square&logo=github&color=7aa2f7" />
   <img src="https://komarev.com/ghpvc/?username=prawinkumar2k&label=DECRYPTED+VIEWS&color=7aa2f7&style=flat-square" />
