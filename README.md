@@ -2,7 +2,7 @@
 <!-- Designed for Senior AI Engineering & Full-Stack Recruiter Psychology -->
 
 <p align="center">
-  <img src="./banner.png" width="100%" style="border-radius: 16px; box-shadow: 0px 10px 45px rgba(0, 0, 0, 0.8);" />
+  <img src="./banner.png" width="80%" style="border-radius: 16px; box-shadow: 0px 10px 45px rgba(0, 0, 0, 0.8);" />
 </p>
 
 <!-- ==================== SECTION 1 — POWERFUL HERO ==================== -->
