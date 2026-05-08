@@ -1,5 +1,5 @@
-<!-- ELITE CYBERPUNK / TOKYO NIGHT DEVELOPER PORTFOLIO README -->
-<!-- Designed for high-impact recruiter psychology and senior AI/Full-Stack branding -->
+<!-- ELITE CYBERPUNK / TOKYO NIGHT DEVELOPER BRAND PAGE -->
+<!-- Designed for Senior AI Engineering & Full-Stack Recruiter Psychology -->
 
 <p align="center">
   <img src="./banner.png" width="100%" style="border-radius: 16px; box-shadow: 0px 10px 45px rgba(0, 0, 0, 0.8);" />
@@ -15,7 +15,8 @@
 </h1>
 
 <p align="center">
-  <strong>Engineering high-scale intelligent systems that combine advanced AI, robust automation, and production-ready full-stack architectures.</strong>
+  <strong>Full Stack AI Engineer Turning Complex Ideas Into Intelligent Products</strong><br/>
+  <i>"Architecting cognitive pipelines and robust scalable ecosystems at the intersection of Artificial Intelligence & Software Engineering."</i>
 </p>
 
 <p align="center">
@@ -28,16 +29,14 @@
   <a href="#-featured-projects"><img src="https://img.shields.io/badge/VIEW_PORTFOLIO-7aa2f7?style=flat-square&logo=visualstudiocode&logoColor=white" /></a>
   <a href="./profile.jpg"><img src="https://img.shields.io/badge/ACCESS_RESUME-bb9af7?style=flat-square&logo=adobeacrobatreader&logoColor=white" /></a>
   <a href="mailto:prawinkumar2k4@gmail.com"><img src="https://img.shields.io/badge/INITIATE_COLLAB-00f2fe?style=flat-square&logo=telegram&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prawinkumar2k&label=SECURE+ACCESS+COUNT&color=7aa2f7&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/prawinkumar2k?style=flat-square&logo=github&color=7aa2f7" />
+  <img src="https://komarev.com/ghpvc/?username=prawinkumar2k&label=DECRYPTED+VIEWS&color=7aa2f7&style=flat-square" />
 </p>
 
 <hr style="height: 2px; border: none; background: linear-gradient(to right, #7aa2f7, #bb9af7, transparent);" />
 
 <!-- ==================== SECTION 2 — IMPACT STATS ==================== -->
-## 📊 Enterprise Performance Dashboard
+## 📊 Enterprise Metrics Dashboard
 
 <table align="center" width="100%">
   <tr>
@@ -46,16 +45,34 @@
       <p style="margin: 5px 0 0 0; font-size: 14px;"><b>Repositories Shipped</b></p>
     </td>
     <td width="25%" align="center" style="border: 1px solid #7aa2f7; border-radius: 8px; padding: 15px; background: #1a1b26;">
-      <h2 style="color: #bb9af7; margin: 0;">MERN</h2>
-      <p style="margin: 5px 0 0 0; font-size: 14px;"><b>Production Platforms</b></p>
-    </td>
-    <td width="25%" align="center" style="border: 1px solid #7aa2f7; border-radius: 8px; padding: 15px; background: #1a1b26;">
-      <h2 style="color: #00f2fe; margin: 0;">AI / ML</h2>
+      <h2 style="color: #bb9af7; margin: 0;">AI / ML</h2>
       <p style="margin: 5px 0 0 0; font-size: 14px;"><b>Cognitive Pipelines</b></p>
     </td>
     <td width="25%" align="center" style="border: 1px solid #7aa2f7; border-radius: 8px; padding: 15px; background: #1a1b26;">
-      <h2 style="color: #00ff00; margin: 0;">Sub-100ms</h2>
-      <p style="margin: 5px 0 0 0; font-size: 14px;"><b>System Latencies</b></p>
+      <h2 style="color: #00f2fe; margin: 0;">MERN</h2>
+      <p style="margin: 5px 0 0 0; font-size: 14px;"><b>Production Platforms</b></p>
+    </td>
+    <td width="25%" align="center" style="border: 1px solid #7aa2f7; border-radius: 8px; padding: 15px; background: #1a1b26;">
+      <h2 style="color: #00ff00; margin: 0;">Real-Time</h2>
+      <p style="margin: 5px 0 0 0; font-size: 14px;"><b>Socket.IO Systems</b></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" align="center" style="border: 1px solid #7aa2f7; border-radius: 8px; padding: 15px; background: #1a1b26;">
+      <h2 style="color: #e0af68; margin: 0;">Full Stack</h2>
+      <p style="margin: 5px 0 0 0; font-size: 14px;"><b>Scalable Products</b></p>
+    </td>
+    <td width="25%" align="center" style="border: 1px solid #7aa2f7; border-radius: 8px; padding: 15px; background: #1a1b26;">
+      <h2 style="color: #f7768e; margin: 0;">Open Source</h2>
+      <p style="margin: 5px 0 0 0; font-size: 14px;"><b>Active Contributions</b></p>
+    </td>
+    <td width="25%" align="center" style="border: 1px solid #7aa2f7; border-radius: 8px; padding: 15px; background: #1a1b26;">
+      <h2 style="color: #9d7cd8; margin: 0;">Awards</h2>
+      <p style="margin: 5px 0 0 0; font-size: 14px;"><b>Unique Projects</b></p>
+    </td>
+    <td width="25%" align="center" style="border: 1px solid #7aa2f7; border-radius: 8px; padding: 15px; background: #1a1b26;">
+      <h2 style="color: #2ac3de; margin: 0;">Internships</h2>
+      <p style="margin: 5px 0 0 0; font-size: 14px;"><b>Industry Experience</b></p>
     </td>
   </tr>
 </table>
@@ -69,12 +86,12 @@
   <tr>
     <td width="65%" valign="top">
       <p align="justify" style="font-size: 16px; line-height: 1.6;">
-        I engineer intelligent, high-scale software systems that combine advanced machine learning, automated business logic, and resilient full-stack architectures. Focused on the bridge between raw artificial intelligence and real-world operational software, I design, containerize, and deploy secure systems that scale to thousands of users.
+        I engineer intelligent systems that combine AI, automation, and scalable web technologies. Focused on bridging the gap between raw computer vision models and resilient, production-ready software, I build MERN stack platforms and deep learning pipelines containerized with Docker and optimized behind secure Nginx reverse proxies.
       </p>
       <ul>
-        <li>🧬 <b>AI & Data Science Architect:</b> Specializing in custom deep learning, CV, and agentic workflows.</li>
-        <li>💻 <b>Full-Stack MERN Developer:</b> Creating highly responsive web applications utilizing modern state management and real-time sockets.</li>
-        <li>🐳 <b>MLOps & Security Focused:</b> Containerizing systems with Docker and optimizing reverse proxies using Nginx.</li>
+        <li>🧬 <b>AI & Data Science Engineer:</b> Designing custom deep learning, computer vision, and forecasting models.</li>
+        <li>💻 <b>MERN Stack Developer:</b> Architecting fast client-server applications with real-time sockets.</li>
+        <li>🛡️ <b>Intelligent Systems Builder:</b> Hardening microservices, secure authentication channels, and robust databases.</li>
       </ul>
     </td>
     <td width="35%" valign="center" align="center">
@@ -84,7 +101,7 @@
         <p align="left" style="margin: 8px 0; font-size: 13px;">🧠 <b>Core Focus:</b> AI Systems</p>
         <p align="left" style="margin: 8px 0; font-size: 13px;">💻 <b>Primary Stack:</b> JavaScript / Python</p>
         <p align="left" style="margin: 8px 0; font-size: 13px;">🛡️ <b>Methodology:</b> Security-First</p>
-        <p align="left" style="margin: 8px 0; font-size: 13px;">⚡ <b>Latencies:</b> Highly Optimized</p>
+        <p align="left" style="margin: 8px 0; font-size: 13px;">⚡ <b>Latencies:</b> Sub-100ms</p>
       </div>
     </td>
   </tr>
@@ -98,48 +115,48 @@
 <table width="100%">
   <tr>
     <td width="33%" valign="top" align="center" style="border: 1px solid #24283b; padding: 15px; border-radius: 8px;">
-      <h3 style="color: #7aa2f7;">💻 Frontend & Client</h3>
+      <h3 style="color: #7aa2f7;">💻 Frontend</h3>
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /><br/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><br/>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     </td>
     <td width="33%" valign="top" align="center" style="border: 1px solid #24283b; padding: 15px; border-radius: 8px;">
-      <h3 style="color: #bb9af7;">⚙️ Backend & Sockets</h3>
+      <h3 style="color: #bb9af7;">⚙️ Backend</h3>
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/REST_API-0073EC?style=for-the-badge&logo=enterprise" />
+      <img src="https://img.shields.io/badge/REST_APIs-0073EC?style=for-the-badge&logo=enterprise" /><br/>
+      <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
     </td>
     <td width="34%" valign="top" align="center" style="border: 1px solid #24283b; padding: 15px; border-radius: 8px;">
-      <h3 style="color: #00f2fe;">🧠 Artificial Intelligence</h3>
+      <h3 style="color: #00f2fe;">🧠 AI / ML</h3>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td width="33%" valign="top" align="center" style="border: 1px solid #24283b; padding: 15px; border-radius: 8px;">
-      <h3 style="color: #00ff00;">🗄️ Databases & Storage</h3>
+      <h3 style="color: #00ff00;">🗄️ Databases</h3>
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
     </td>
     <td width="33%" valign="top" align="center" style="border: 1px solid #24283b; padding: 15px; border-radius: 8px;">
-      <h3 style="color: #e0af68;">🐳 DevOps & Infrastructure</h3>
+      <h3 style="color: #e0af68;">🐳 DevOps & Cloud</h3>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /><br/>
-      <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+      <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /><br/>
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
     </td>
     <td width="34%" valign="top" align="center" style="border: 1px solid #24283b; padding: 15px; border-radius: 8px;">
-      <h3 style="color: #f7768e;">🤖 Hardware & Edge</h3>
-      <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" /><br/>
+      <h3 style="color: #f7768e;">🤖 IoT & Hardware</h3>
       <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus" />
+      <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Sensors-001000?style=for-the-badge" />
     </td>
   </tr>
 </table>
@@ -149,9 +166,9 @@
 <!-- ==================== SECTION 5 — FEATURED PROJECTS ==================== -->
 ## 🚀 Featured Production Projects
 
-### 🏢 NEClms — Intelligent MERN LMS Platform with AI Proctoring
+### 🏢 NEClms — Intelligent MERN Learning Management System with AI Proctoring
 > **HIGH-IMPACT HEADLINE:** Revolutionizing academic testing by wrapping complex computer vision algorithms inside a scalable educational platform.
-*   **The Problem Solved:** Academic testing portals suffer from widespread academic integrity violations, while existing commercial proctoring options are expensive, slow, and hard to integrate.
+*   **The Problem Solved:** Academic testing portals suffer from widespread academic integrity violations, while existing commercial proctoring options are expensive, slow, and hard to integrate natively.
 *   **Why It Matters:** NEClms resolves this by natively integrating a low-latency, real-time AI computer vision proctoring engine directly into a custom MERN-stack Learning Management System.
 *   **Core Architecture Highlights:**
     *   Designed a multi-role student and faculty microservices architecture utilizing Node.js and MongoDB.
@@ -248,7 +265,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🛡️ Security-First Mentorship</h3>
+      <h3>🛡️ Security-First Mindset</h3>
       <p align="justify" style="font-size: 15px; line-height: 1.6;">
         AI is useless unless it is wrapped inside secure, production-grade applications. I construct systems with robust JWT token authentication, implement secure HTTPS protocols using Nginx reverse proxies, and design clean data flow sanitization schemas to block threat vectors.
       </p>
@@ -271,6 +288,11 @@
   <img src="https://github-profile-trophy.vercel.app/?username=prawinkumar2k&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15" width="48%" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Codeforces-prawinkumar2k-blue?style=flat-square&logo=codeforces" />
+  <img src="https://img.shields.io/docker/pulls/prawinkumar2k/neclms?style=flat-square&logo=docker" />
+</p>
+
 ### 📅 Contribution Heatmap
 <p align="center">
   <img src="https://ghchart.rshah.org/7aa2f7/prawinkumar2k" alt="Prawinkumar N's Contribution Graph" width="100%" />
@@ -281,24 +303,24 @@
 <!-- ==================== SECTION 8 — CURRENT FOCUS ==================== -->
 ## 🗺️ What I'm Building Right Now
 
-- 🤖 **Agentic Multi-Agent Orchestration:** Building complex networks of autonomous LLM agents that execute automated code deployment pipelines.
-- 🐳 **MLOps Pipeline Automation:** Structuring fully automated CI/CD pipelines to continuously tune, compile, and deploy lightweight computer vision models onto edge hardware.
-- 🔬 **High-Speed Cryptographic Sockets:** Engineering ultra-fast transaction channels designed to support high concurrent biometric registrations.
+- 🤖 **Agentic AI Systems:** Deploying autonomous multi-agent orchestration frameworks with complex tool-calling workflows.
+- 🐳 **MLOps Pipelines:** Automating containerized deployments, training pipelines, and reverse proxy optimizations.
+- 🏫 **Intelligent ERP & Education Ecosystems:** Developing institutional-level grading structures, real-time proctoring telemetry, and academic administration panels.
 
 <hr style="height: 2px; border: none; background: linear-gradient(to right, #7aa2f7, #bb9af7, transparent);" />
 
 <!-- ==================== SECTION 9 — ACHIEVEMENTS ==================== -->
 ## 🏅 Notable Milestones
 
-- 🏆 **Unique Project Award:** Honored for outstanding technical innovation in developing real-world scalable software systems.
-- 💼 **Enterprise ERP Platforms:** Engineered end-to-end full-stack grading and administrative ecosystems managing institutional workflows.
-- 🏅 **AI Hackathons & Open Source:** Consistently deploying deep learning pathways and MERN components to support active developer communities.
+- 🏆 **Unique Project Award:** Recognized for exceptional technical architecture and real-world system optimization.
+- 💼 **ERP Development & Internships:** Designed and deployed grading engines and accreditation systems for academic operations.
+- 🏅 **AI Systems & Hackathons:** Actively deploying computer vision networks, regression models, and deep learning simulations.
 
 <hr style="height: 2px; border: none; background: linear-gradient(to right, #7aa2f7, #bb9af7, transparent);" />
 
 <!-- ==================== SECTION 10 — FUTURE VISION ==================== -->
 <p align="center">
-  <i>"Let's collaborate to build highly intelligent, robust, and beautiful systems together."</i>
+  <i>"Let's build intelligent systems together."</i>
 </p>
 
 <p align="center">
