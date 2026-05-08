@@ -141,7 +141,7 @@ A **real-time chat application** using WebSocket connections for low-latency mes
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-api.vercel.app/api?username=prawinkumar2k&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-one.vercel.app/api?username=prawinkumar2k&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prawinkumar2k&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
