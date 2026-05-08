@@ -5,9 +5,6 @@
   <img src="./banner.png" width="100%" style="border-radius: 16px; box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.7);" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/type=wave&color=auto&height=120&section=header&text=%20&fontSize=90" width="100%" />
-</p>
 
 <!-- ==================== HERO SECTION ==================== -->
 <p align="center">
@@ -341,16 +338,10 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" height="3px" />
 </p>
-
-<!-- ==================== FOOTER ==================== -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" height="3px" />
 </p>
 
 <p align="center">
   <i>"Let's collaborate to build highly intelligent, robust, and beautiful systems together."</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/type=wave&color=auto&height=120&section=footer&text=%20&fontSize=90" width="100%" />
 </p>
