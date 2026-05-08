@@ -141,16 +141,16 @@ A **real-time chat application** using WebSocket connections for low-latency mes
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prawinkumar2k&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats-api.vercel.app/api?username=prawinkumar2k&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prawinkumar2k&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prawinkumar2k&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="40%" />
+  <img src="https://github-readme-stats-api.vercel.app/api/top-langs/?username=prawinkumar2k&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="40%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prawinkumar2k&theme=tokyo-night&hide_border=true" width="95%" />
+  <img src="https://ghchart.rshah.org/7aa2f7/prawinkumar2k" alt="Prawinkumar N's Contribution Graph" width="95%" />
 </p>
 
 ---
