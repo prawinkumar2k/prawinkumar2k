@@ -11,7 +11,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=34&duration=2500&pause=800&color=7aa2f7&center=true&vCenter=true&width=700&lines=PRAWIN+KUMAR+N;AI+SYSTEMS+ENGINEER;FULL+STACK+ARCHITECT;INTELLIGENT+PRODUCTS" alt="Prawin Kumar N" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&amp;size=34&amp;duration=2500&amp;pause=800&amp;color=7aa2f7&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=PRAWIN+KUMAR+N;AI+SYSTEMS+ENGINEER;FULL+STACK+ARCHITECT;INTELLIGENT+PRODUCTS" alt="Prawin Kumar N" />
 </h1>
 
 <p align="center">
