@@ -1,0 +1,46 @@
+name: 🌐 Generate 3D Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 */8 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  profile-3d:
+    name: Generate 3D Contribution Graphs
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - uses: actions/checkout@v4
+
+      # ── Generate all 3D contribution graph variants ──────────────────────────
+      - name: Generate 3D contribution SVGs
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          MAX_REPOS: 10
+
+      # ── Collect generated SVGs into dist/ ────────────────────────────────────
+      - name: Move 3D SVGs to dist/
+        run: |
+          mkdir -p dist
+          find . -maxdepth 1 -name "profile-*.svg" -exec cp {} dist/ \;
+          echo "Generated files:"
+          ls dist/
+
+      # ── Push to output branch (keep_history preserves snake + metric files) ──
+      - name: Push 3D graphs to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+          keep_history: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

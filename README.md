@@ -53,6 +53,10 @@
 </p>
 
 <p align="center">
+  <img src="./status.svg" width="100%" />
+</p>
+
+<p align="center">
   <img src="./divider.svg" width="100%" />
 </p>
 
@@ -223,6 +227,12 @@
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&amp;logo=arduino&amp;logoColor=white" />
   <img src="https://img.shields.io/badge/Sensors-001000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white" />
+</p>
+
+<p align="center">
+  <b>⚡ Quick Stack View</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,python,pytorch,tensorflow&theme=dark&perline=9" /><br/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,docker,kubernetes,linux,nginx,git,github&theme=dark&perline=9" />
 </p>
 
 <p align="center">
@@ -467,6 +477,16 @@
   <img src="https://raw.githubusercontent.com/prawinkumar2k/prawinkumar2k/output/github-contribution-grid-snake-plasma.svg" alt="Plasma Contribution Snake" width="100%" />
 </p>
 
+### 🌐 3D Contribution City — Animated Night Rainbow
+<p align="center">
+  <img src="https://raw.githubusercontent.com/prawinkumar2k/prawinkumar2k/output/profile-night-rainbow.svg" alt="3D Contribution Graph Night Rainbow" width="100%" />
+</p>
+
+### 🟢 3D Contribution City — Night Green
+<p align="center">
+  <img src="https://raw.githubusercontent.com/prawinkumar2k/prawinkumar2k/output/profile-night-green.svg" alt="3D Contribution Graph Night Green" width="100%" />
+</p>
+
 ### 📅 Core Contribution Heatmap
 <p align="center">
   <img src="https://ghchart.rshah.org/7aa2f7/prawinkumar2k" alt="Prawinkumar N's Contribution Graph" width="100%" />
@@ -480,6 +500,10 @@
 ## 📊 Neural Net Network Activity
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=prawinkumar2k&amp;theme=tokyonight&amp;hide_border=true&amp;area=true" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=tokyonight" width="80%" />
 </p>
 
 <p align="center">
@@ -531,6 +555,11 @@
 
 <p align="center">
   <img src="./divider.svg" width="100%" />
+</p>
+
+<!-- CAPSULE RENDER WAVE FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7aa2f7,50:bb9af7,100:00f2fe&amp;height=100&amp;section=footer&amp;animation=twinkling" width="100%" />
 </p>
 
 <!-- SECTION 20 — TERMINAL SHUTDOWN SEQUENCE -->
