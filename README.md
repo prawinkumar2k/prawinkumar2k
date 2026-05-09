@@ -437,27 +437,12 @@
 <!-- SECTION 16 — CONTRIBUTION VISUALIZATION -->
 ## 👾 Neural Grid Active Matrix
 
-### 🐍 Contribution Snake — Auto Theme (Dark / Light)
+### 🐍 Contribution Snake
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prawinkumar2k/prawinkumar2k/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prawinkumar2k/prawinkumar2k/output/github-contribution-grid-snake.svg" />
-  <img src="https://raw.githubusercontent.com/prawinkumar2k/prawinkumar2k/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Dark" width="100%" />
+  <img src="https://raw.githubusercontent.com/prawinkumar2k/prawinkumar2k/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
 </picture>
-
-### 🔵 Cyberpunk Theme
-<p align="center">
-  <img src="https://raw.githubusercontent.com/prawinkumar2k/prawinkumar2k/output/github-contribution-grid-snake-cyberpunk.svg" alt="Cyberpunk Contribution Snake" width="100%" />
-</p>
-
-### 🟢 Matrix Theme
-<p align="center">
-  <img src="https://raw.githubusercontent.com/prawinkumar2k/prawinkumar2k/output/github-contribution-grid-snake-matrix.svg" alt="Matrix Contribution Snake" width="100%" />
-</p>
-
-### 🟣 Plasma Theme
-<p align="center">
-  <img src="https://raw.githubusercontent.com/prawinkumar2k/prawinkumar2k/output/github-contribution-grid-snake-plasma.svg" alt="Plasma Contribution Snake" width="100%" />
-</p>
 
 ### 📅 Core Contribution Heatmap
 <p align="center">
@@ -471,7 +456,7 @@
 <!-- SECTION 17 — NEURAL NETWORK ACTIVITY -->
 ## 📊 Neural Net Network Activity
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prawinkumar2k&amp;theme=tokyonight&amp;hide_border=true&amp;area=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prawinkumar2k&amp;theme=tokyo-night&amp;bg_color=0d0e16&amp;color=7aa2f7&amp;line=00f2fe&amp;point=bb9af7&amp;hide_border=true&amp;area=true&amp;area_color=1f2335" width="100%" />
 </p>
 
 <p align="center">
