@@ -1,23 +1,55 @@
-<svg width="1200" height="30" viewBox="0 0 1200 30" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <!-- Base dark grid track -->
-  <path d="M0 15 H1200" stroke="#24283b" stroke-width="1" stroke-dasharray="5 5" />
-  <!-- Glowing pulse line moving left-to-right and back -->
-  <path d="M0 15 H150" stroke="url(#pulse_grad)" stroke-width="2">
-    <animate attributeName="transform" type="translate" from="-200 0" to="1200 0" dur="4s" repeatCount="indefinite" />
-  </path>
-  <!-- Central holographic diamond -->
-  <rect x="585" y="5" width="30" height="20" rx="4" fill="#1a1b26" stroke="#7aa2f7" stroke-width="1.5">
-    <animate attributeName="stroke" values="#7aa2f7;#bb9af7;#00f2fe;#7aa2f7" dur="4s" repeatCount="indefinite" />
+<svg width="1200" height="40" viewBox="0 0 1200 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Base track lines -->
+  <path d="M0 20 H1200" stroke="#1f2335" stroke-width="1"/>
+  <path d="M0 20 H1200" stroke="#24283b" stroke-width="0.8" stroke-dasharray="4 8"/>
+
+  <!-- Tick marks at intervals -->
+  <line x1="200" y1="14" x2="200" y2="26" stroke="#24283b" stroke-width="1"/>
+  <line x1="400" y1="16" x2="400" y2="24" stroke="#1f2335" stroke-width="1"/>
+  <line x1="600" y1="13" x2="600" y2="27" stroke="#24283b" stroke-width="1"/>
+  <line x1="800" y1="16" x2="800" y2="24" stroke="#1f2335" stroke-width="1"/>
+  <line x1="1000" y1="14" x2="1000" y2="26" stroke="#24283b" stroke-width="1"/>
+
+  <!-- Left data node -->
+  <rect x="193" y="13" width="14" height="14" rx="2" fill="#16161e" stroke="#24283b" stroke-width="1"/>
+  <circle cx="200" cy="20" r="2" fill="#7aa2f7" opacity="0.5"/>
+
+  <!-- Center holographic node -->
+  <rect x="589" y="11" width="22" height="18" rx="3" fill="#16161e" stroke="#7aa2f7" stroke-width="1.2">
+    <animate attributeName="stroke" values="#7aa2f7;#00f2fe;#bb9af7;#7aa2f7" dur="3s" repeatCount="indefinite"/>
   </rect>
-  <circle cx="600" cy="15" r="4" fill="#00f2fe">
-    <animate attributeName="r" values="3;5;3" dur="1.5s" repeatCount="indefinite" />
-    <animate attributeName="fill" values="#00f2fe;#ff007f;#00f2fe" dur="3s" repeatCount="indefinite" />
+  <circle cx="600" cy="20" r="4" fill="#00f2fe">
+    <animate attributeName="r" values="3;5.5;3" dur="1.8s" repeatCount="indefinite"/>
+    <animate attributeName="fill" values="#00f2fe;#7aa2f7;#bb9af7;#00f2fe" dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;0.6;1" dur="1.8s" repeatCount="indefinite"/>
   </circle>
+
+  <!-- Right data node -->
+  <rect x="993" y="13" width="14" height="14" rx="2" fill="#16161e" stroke="#24283b" stroke-width="1"/>
+  <circle cx="1000" cy="20" r="2" fill="#bb9af7" opacity="0.5"/>
+
+  <!-- Moving pulse sweep (left to right) -->
+  <path d="M0 20 H180" stroke="url(#pulse_sweep)" stroke-width="2.5">
+    <animateTransform attributeName="transform" type="translate" from="-200 0" to="1200 0" dur="3.5s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- Second pulse sweep (delayed) -->
+  <path d="M0 20 H120" stroke="url(#pulse_sweep2)" stroke-width="1.5" opacity="0.5">
+    <animateTransform attributeName="transform" type="translate" from="-200 0" to="1200 0" dur="3.5s" begin="1.75s" repeatCount="indefinite"/>
+  </path>
+
   <defs>
-    <linearGradient id="pulse_grad" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#7aa2f7" stop-opacity="0" />
-      <stop offset="50%" stop-color="#00f2fe" stop-opacity="1" />
-      <stop offset="100%" stop-color="#bb9af7" stop-opacity="0" />
+    <linearGradient id="pulse_sweep" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7aa2f7" stop-opacity="0"/>
+      <stop offset="35%" stop-color="#00f2fe" stop-opacity="1"/>
+      <stop offset="65%" stop-color="#bb9af7" stop-opacity="0.7"/>
+      <stop offset="100%" stop-color="#7aa2f7" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="pulse_sweep2" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#bb9af7" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#7aa2f7" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#00f2fe" stop-opacity="0"/>
     </linearGradient>
   </defs>
 </svg>

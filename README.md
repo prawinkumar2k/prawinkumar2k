@@ -173,6 +173,7 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" />
   <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&amp;logo=electron&amp;logoColor=white" />
   <img src="https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&amp;logo=capacitor&amp;logoColor=white" />
 </p>
@@ -191,6 +192,9 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&amp;logo=opencv&amp;logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&amp;logo=scikit-learn&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&amp;logo=pytorch&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&amp;logo=huggingface&amp;logoColor=black" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&amp;logo=langchain&amp;logoColor=white" />
 </p>
 
 <p align="center">
@@ -199,6 +203,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" />
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&amp;logo=microsoftsqlserver&amp;logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&amp;logo=sqlite&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&amp;logo=redis&amp;logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&amp;logo=firebase&amp;logoColor=black" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" />
 </p>
@@ -356,7 +361,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats-one.vercel.app/api?username=prawinkumar2k&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;border_radius=10" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prawinkumar2k&amp;theme=tokyonight&amp;hide_border=true&amp;border_radius=10" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=prawinkumar2k&amp;theme=tokyonight&amp;hide_border=true&amp;border_radius=10" width="48%" />
 </p>
 
 <p align="center">
@@ -387,6 +392,8 @@
 - **2026**: Deploying complex agentic AI systems, automated MLOps pipelines, and secure reverse proxy routing structures.
 - **2025**: Shipped NEClms proctoring structures and EduSphere compliance platforms under industry environments.
 - **2024**: Created IrisPay biometric gateway systems and built deep neural simulation layers under IoT arrays.
+- **2023**: Built full-stack MERN applications with real-time Socket.IO event brokers and containerized Docker deployments.
+- **2022**: Engineered foundational deep learning pipelines in PyTorch and TensorFlow; first production OpenCV computer vision deployments.
 
 <p align="center">
   <img src="./divider.svg" width="100%" />
@@ -443,7 +450,31 @@
   <img src="./divider.svg" width="100%" />
 </p>
 
-<!-- SECTION 19 — COLLABORATION GATEWAY -->
+<!-- SECTION 19 — CURRENTLY ENGINEERING -->
+## 🎯 Currently Engineering
+
+<table align="center" width="100%">
+  <tr>
+    <td width="33%" align="center" style="border: 1px solid #00f2fe; border-radius: 8px; padding: 15px; background: #16161e;">
+      <h4 style="color: #00f2fe; margin-top: 0;">AGENTIC AI SYSTEMS</h4>
+      <p style="font-size: 13px; color: #a9b1d6; margin-bottom: 0;">Multi-agent orchestration frameworks with autonomous <b>LangChain</b> tool-calling and memory pipelines.</p>
+    </td>
+    <td width="33%" align="center" style="border: 1px solid #bb9af7; border-radius: 8px; padding: 15px; background: #16161e;">
+      <h4 style="color: #bb9af7; margin-top: 0;">MLOps AUTOMATION</h4>
+      <p style="font-size: 13px; color: #a9b1d6; margin-bottom: 0;">Containerized training pipelines with <b>GitHub Actions</b> CI/CD and <b>Docker</b> artifact registries.</p>
+    </td>
+    <td width="33%" align="center" style="border: 1px solid #7aa2f7; border-radius: 8px; padding: 15px; background: #16161e;">
+      <h4 style="color: #7aa2f7; margin-top: 0;">INTELLIGENT ERP</h4>
+      <p style="font-size: 13px; color: #a9b1d6; margin-bottom: 0;">Institutional-grade ERP with real-time AI proctoring telemetry and academic compliance dashboards.</p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="./divider.svg" width="100%" />
+</p>
+
+<!-- SECTION 20 — COLLABORATION GATEWAY -->
 ## 🔌 Collaboration Gateway
 
 <p align="center">
