@@ -3,6 +3,9 @@
 <!-- Designed for Senior Technical Recruiters    -->
 <!-- ========================================== -->
 
+<!-- CAPSULE RENDER ANIMATED WAVE HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0e16,30:7aa2f7,70:bb9af7,100:00f2fe&height=200&section=header&text=PRAWIN%20KUMAR&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=AI%20Systems%20Engineer%20%7C%20Full%20Stack%20Dev%20%7C%20Computer%20Vision&descSize=17&descAlignY=65&descColor=a9b1d6" width="100%" />
+
 <!-- SECTION 1 — ANIMATED AI BOOT LOADER -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Courier+New&amp;size=16&amp;duration=1500&amp;pause=500&amp;color=00f2fe&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=%5B+%5D+INITIALIZING+NEURAL+CORE_...;%5B%3D%3D%5D+ESTABLISHING+SECURE+IPSEC+TUNNEL_...;%5B%3D%3D%3D%3D%5D+LOADING+COGNITIVE+MODEL+PIPELINES_...;%5B%3D%3D%3D%3D%3D%3D%5D+SYNCHRONIZING+DEV_OPS+TELEMETRY_...;%5B%3D%3D%3D%3D%3D%3D%3D%3D%5D+ACCESS+GRANTED%3A+PRAWIN_KUMAR+ONLINE" />
@@ -236,6 +239,10 @@
 </p>
 
 <p align="center">
+  <img src="https://github-widgetbox.vercel.app/api/skills?languages=python,javascript,typescript,html,css&frameworks=react,nodejs,tensorflow&theme=nautilus" width="100%" />
+</p>
+
+<p align="center">
   <img src="./divider.svg" width="100%" />
 </p>
 
@@ -436,6 +443,11 @@
 
 <!-- SECTION 16 — CONTRIBUTION VISUALIZATION -->
 ## 👾 Neural Grid Active Matrix
+
+### 💻 Matrix Cipher Stream
+<p align="center">
+  <img src="./matrix.svg" width="100%" />
+</p>
 
 ### 🐍 Contribution Snake
 <picture>
