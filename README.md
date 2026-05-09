@@ -379,34 +379,16 @@
   <img src="https://github-profile-trophy.vercel.app/?username=prawinkumar2k&amp;theme=tokyonight&amp;no-bg=true&amp;no-frame=true&amp;margin-w=15" width="48%" />
 </p>
 
-### 🗂️ Deep Metrics — Languages · Habits · Lines
+### 🗂️ Profile Summary Cards
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/prawinkumar2k/prawinkumar2k/output/metrics.core.svg" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prawinkumar2k&amp;theme=tokyonight" width="100%" />
 </p>
 
-### 🌐 Isometric 3D Contribution Calendar
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/prawinkumar2k/prawinkumar2k/output/metrics.isocalendar.svg" width="100%" />
-</p>
-
-### 🏅 Achievement Badge Wall
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/prawinkumar2k/prawinkumar2k/output/metrics.achievements.svg" width="100%" />
-</p>
-
-### ⚡ Recent Activity Feed
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/prawinkumar2k/prawinkumar2k/output/metrics.activity.svg" width="100%" />
-</p>
-
-### 📆 Full Year Contribution Calendar
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/prawinkumar2k/prawinkumar2k/output/metrics.calendar.svg" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prawinkumar2k&amp;theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prawinkumar2k&amp;theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prawinkumar2k&amp;theme=tokyonight&amp;utcOffset=5.5" width="32%" />
 </p>
 
 <p align="center">
@@ -475,16 +457,6 @@
 ### 🟣 Plasma Theme
 <p align="center">
   <img src="https://raw.githubusercontent.com/prawinkumar2k/prawinkumar2k/output/github-contribution-grid-snake-plasma.svg" alt="Plasma Contribution Snake" width="100%" />
-</p>
-
-### 🌐 3D Contribution City — Animated Night Rainbow
-<p align="center">
-  <img src="https://raw.githubusercontent.com/prawinkumar2k/prawinkumar2k/output/profile-night-rainbow.svg" alt="3D Contribution Graph Night Rainbow" width="100%" />
-</p>
-
-### 🟢 3D Contribution City — Night Green
-<p align="center">
-  <img src="https://raw.githubusercontent.com/prawinkumar2k/prawinkumar2k/output/profile-night-green.svg" alt="3D Contribution Graph Night Green" width="100%" />
 </p>
 
 ### 📅 Core Contribution Heatmap
