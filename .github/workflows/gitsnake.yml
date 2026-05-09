@@ -1,4 +1,4 @@
-name: Generate Snake Animation
+name: 🐍 Generate Contribution Snake Animations
 
 on:
   schedule:
@@ -9,25 +9,32 @@ on:
       - main
 
 jobs:
-  generate:
+  snake-animations:
+    name: Generate All Snake Themes
     permissions:
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 5
-    
+    timeout-minutes: 10
+
     steps:
-      - name: Generate github-contribution-grid-snake.svg
+      # ── Generate all 5 themed snake animations in one pass ──────────────────
+      - name: Generate snake SVGs (light + dark + cyberpunk + matrix + plasma)
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-          
-      - name: Push github-contribution-grid-snake.svg to the output branch
+            dist/github-contribution-grid-snake-cyberpunk.svg?color_snake=00f2fe&color_dot_0=1a1b26&color_dot_1=1f2335&color_dot_2=2a3a7a&color_dot_3=3d59a1&color_dot_4=7aa2f7&color_dot_empty=0d0e16&color_bg=0d0e16
+            dist/github-contribution-grid-snake-matrix.svg?color_snake=39ff14&color_dot_0=0d140d&color_dot_1=0f2e0f&color_dot_2=1a5c1a&color_dot_3=1f8b1f&color_dot_4=00ff41&color_dot_empty=0a0f0a&color_bg=0a0f0a
+            dist/github-contribution-grid-snake-plasma.svg?color_snake=ff0088&color_dot_0=12001e&color_dot_1=2d0050&color_dot_2=5a0096&color_dot_3=9b00c8&color_dot_4=d400ff&color_dot_empty=0a0012&color_bg=0a0012
+
+      # ── Push all variants to the output branch (preserve other files) ────────
+      - name: Push all snake SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
+          keep_history: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

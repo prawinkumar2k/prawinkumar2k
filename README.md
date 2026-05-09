@@ -369,6 +369,36 @@
   <img src="https://github-profile-trophy.vercel.app/?username=prawinkumar2k&amp;theme=tokyonight&amp;no-bg=true&amp;no-frame=true&amp;margin-w=15" width="48%" />
 </p>
 
+### 🗂️ Deep Metrics — Languages · Habits · Lines
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/prawinkumar2k/prawinkumar2k/output/metrics.core.svg" width="100%" />
+</p>
+
+### 🌐 Isometric 3D Contribution Calendar
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/prawinkumar2k/prawinkumar2k/output/metrics.isocalendar.svg" width="100%" />
+</p>
+
+### 🏅 Achievement Badge Wall
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/prawinkumar2k/prawinkumar2k/output/metrics.achievements.svg" width="100%" />
+</p>
+
+### ⚡ Recent Activity Feed
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/prawinkumar2k/prawinkumar2k/output/metrics.activity.svg" width="100%" />
+</p>
+
+### 📆 Full Year Contribution Calendar
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/prawinkumar2k/prawinkumar2k/output/metrics.calendar.svg" width="100%" />
+</p>
+
 <p align="center">
   <img src="./divider.svg" width="100%" />
 </p>
@@ -415,9 +445,26 @@
 <!-- SECTION 16 — CONTRIBUTION VISUALIZATION -->
 ## 👾 Neural Grid Active Matrix
 
-### 🐍 Auto-Updating Contributions Snake Animation
+### 🐍 Contribution Snake — Auto Theme (Dark / Light)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prawinkumar2k/prawinkumar2k/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prawinkumar2k/prawinkumar2k/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/prawinkumar2k/prawinkumar2k/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Dark" width="100%" />
+</picture>
+
+### 🔵 Cyberpunk Theme
 <p align="center">
-  <img src="https://raw.githubusercontent.com/prawinkumar2k/prawinkumar2k/output/github-contribution-grid-snake.svg" alt="Active Contributions Snake Animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/prawinkumar2k/prawinkumar2k/output/github-contribution-grid-snake-cyberpunk.svg" alt="Cyberpunk Contribution Snake" width="100%" />
+</p>
+
+### 🟢 Matrix Theme
+<p align="center">
+  <img src="https://raw.githubusercontent.com/prawinkumar2k/prawinkumar2k/output/github-contribution-grid-snake-matrix.svg" alt="Matrix Contribution Snake" width="100%" />
+</p>
+
+### 🟣 Plasma Theme
+<p align="center">
+  <img src="https://raw.githubusercontent.com/prawinkumar2k/prawinkumar2k/output/github-contribution-grid-snake-plasma.svg" alt="Plasma Contribution Snake" width="100%" />
 </p>
 
 ### 📅 Core Contribution Heatmap
